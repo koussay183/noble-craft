@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a177b90.css",
-    "main.js": "/static/js/main.a97d3fe8.js",
+    "main.css": "/static/css/main.1bc64225.css",
+    "main.js": "/static/js/main.f4af85e6.js",
     "static/media/background.mp4": "/static/media/background.1f75656e24553e66b18b.mp4",
     "static/media/Farid leader at google.mp4": "/static/media/Farid leader at google.8bc244732565f4811549.mp4",
     "static/media/Brandon OConnell.mp4": "/static/media/Brandon OConnell.930516a600e9794c4069.mp4",
     "static/media/Nick Mirabella owner of the warehouse salon.mp4": "/static/media/Nick Mirabella owner of the warehouse salon.c7835afe216d8b25c9c3.mp4",
     "static/media/videoPoster.png": "/static/media/videoPoster.75ce8e70e9077bfccfc6.png",
+    "static/media/s3.jpg": "/static/media/s3.2f12751e038a0b329358.jpg",
     "static/media/Logo.png": "/static/media/Logo.ab60655f01196522668d.png",
     "index.html": "/index.html",
     "static/media/scroll-down-ffffff.svg": "/static/media/scroll-down-ffffff.daa3369b4efdf1d66ea3e0a388753276.svg",
-    "main.1a177b90.css.map": "/static/css/main.1a177b90.css.map",
-    "main.a97d3fe8.js.map": "/static/js/main.a97d3fe8.js.map"
+    "main.1bc64225.css.map": "/static/css/main.1bc64225.css.map",
+    "main.f4af85e6.js.map": "/static/js/main.f4af85e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a177b90.css",
-    "static/js/main.a97d3fe8.js"
+    "static/css/main.1bc64225.css",
+    "static/js/main.f4af85e6.js"
   ]
 }
