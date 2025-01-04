@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.94c8a4c3.css",
-    "main.js": "/static/js/main.58e11747.js",
+    "main.css": "/static/css/main.5a2a8177.css",
+    "main.js": "/static/js/main.449e468e.js",
     "static/media/background.mp4": "/static/media/background.1f75656e24553e66b18b.mp4",
     "static/media/Farid leader at google.mp4": "/static/media/Farid leader at google.8bc244732565f4811549.mp4",
     "static/media/Brandon OConnell.mp4": "/static/media/Brandon OConnell.930516a600e9794c4069.mp4",
@@ -14,11 +14,11 @@
     "static/media/Logo.png": "/static/media/Logo.ab60655f01196522668d.png",
     "index.html": "/index.html",
     "static/media/scroll-down-ffffff.svg": "/static/media/scroll-down-ffffff.daa3369b4efdf1d66ea3e0a388753276.svg",
-    "main.94c8a4c3.css.map": "/static/css/main.94c8a4c3.css.map",
-    "main.58e11747.js.map": "/static/js/main.58e11747.js.map"
+    "main.5a2a8177.css.map": "/static/css/main.5a2a8177.css.map",
+    "main.449e468e.js.map": "/static/js/main.449e468e.js.map"
   },
   "entrypoints": [
-    "static/css/main.94c8a4c3.css",
-    "static/js/main.58e11747.js"
+    "static/css/main.5a2a8177.css",
+    "static/js/main.449e468e.js"
   ]
 }
