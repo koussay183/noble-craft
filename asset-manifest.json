@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.44de0147.css",
-    "main.js": "/static/js/main.c138c6c9.js",
+    "main.css": "/static/css/main.51abf48c.css",
+    "main.js": "/static/js/main.2285be9b.js",
     "static/media/background.mp4": "/static/media/background.1f75656e24553e66b18b.mp4",
     "static/media/Farid leader at google.mp4": "/static/media/Farid leader at google.8bc244732565f4811549.mp4",
     "static/media/Brandon OConnell.mp4": "/static/media/Brandon OConnell.930516a600e9794c4069.mp4",
@@ -18,12 +18,10 @@
     "static/media/s3.jpg": "/static/media/s3.2f12751e038a0b329358.jpg",
     "static/media/Logo.png": "/static/media/Logo.ab60655f01196522668d.png",
     "index.html": "/index.html",
-    "static/media/scroll-down-ffffff.svg": "/static/media/scroll-down-ffffff.daa3369b4efdf1d66ea3e0a388753276.svg",
-    "main.44de0147.css.map": "/static/css/main.44de0147.css.map",
-    "main.c138c6c9.js.map": "/static/js/main.c138c6c9.js.map"
+    "static/media/scroll-down-ffffff.svg": "/static/media/scroll-down-ffffff.daa3369b4efdf1d66ea3e0a388753276.svg"
   },
   "entrypoints": [
-    "static/css/main.44de0147.css",
-    "static/js/main.c138c6c9.js"
+    "static/css/main.51abf48c.css",
+    "static/js/main.2285be9b.js"
   ]
 }
