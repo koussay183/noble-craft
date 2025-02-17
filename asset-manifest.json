@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e0111365.css",
-    "main.js": "/static/js/main.0f8dfdf3.js",
+    "main.js": "/static/js/main.cac31265.js",
     "static/media/background.mp4": "/static/media/background.1f75656e24553e66b18b.mp4",
     "static/media/Farid leader at google.mp4": "/static/media/Farid leader at google.8bc244732565f4811549.mp4",
     "static/media/Brandon OConnell.mp4": "/static/media/Brandon OConnell.930516a600e9794c4069.mp4",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.e0111365.css",
-    "static/js/main.0f8dfdf3.js"
+    "static/js/main.cac31265.js"
   ]
 }
